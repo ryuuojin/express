@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-express-deployed-on-utopiops",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "run": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mkamrani/nodejs-express-deployed-on-utopiops.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mkamrani/nodejs-express-deployed-on-utopiops/issues"
+  },
+  "homepage": "https://github.com/mkamrani/nodejs-express-deployed-on-utopiops#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
